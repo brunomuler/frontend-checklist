@@ -39,7 +39,7 @@
 
 ### Testing
 
-- [ ] Tested on major browsers and vertions ( IE8> ).
+- [ ] Tested on major browsers and versions ( IE8> ).
 - [ ] Tested on Android, IOs, Windows Phone on different devices.
 - [ ] All links are pointig to right place and opening on new tab when necessary
 - [ ] Checked texts for spelling and other possible problems.
